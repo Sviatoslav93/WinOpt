@@ -1,0 +1,198 @@
+{
+    "bloatwarePackages": [
+        {
+            "name": "Microsoft.3DBuilder",
+            "category": "3D Tools"
+        },
+        {
+            "name": "Microsoft.Microsoft3DViewer",
+            "category": "3D Tools"
+        },
+        {
+            "name": "Microsoft.AppConnector",
+            "category": "Utilities"
+        },
+        {
+            "name": "Microsoft.BingFinance",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.BingNews",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.BingSports",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.BingTranslator",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.BingWeather",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.BingFoodAndDrink",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.BingHealthAndFitness",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.BingTravel",
+            "category": "Bing Apps"
+        },
+        {
+            "name": "Microsoft.MinecraftUWP",
+            "category": "Games"
+        },
+        {
+            "name": "Microsoft.GamingServices",
+            "category": "Games"
+        },
+        {
+            "name": "Microsoft.WindowsReadingList",
+            "category": "Utilities"
+        },
+        {
+            "name": "Microsoft.GetHelp",
+            "category": "System"
+        },
+        {
+            "name": "Microsoft.Getstarted",
+            "category": "System"
+        },
+        {
+            "name": "Microsoft.Messaging",
+            "category": "Communication"
+        },
+        {
+            "name": "Microsoft.MicrosoftSolitaireCollection",
+            "category": "Games"
+        },
+        {
+            "name": "Microsoft.NetworkSpeedTest",
+            "category": "Utilities"
+        },
+        {
+            "name": "Microsoft.News",
+            "category": "News"
+        },
+        {
+            "name": "Microsoft.Office.*",
+            "category": "Office"
+        },
+        {
+            "name": "Microsoft.People",
+            "category": "Communication"
+        },
+        {
+            "name": "Microsoft.Print3D",
+            "category": "3D Tools"
+        },
+        {
+            "name": "Microsoft.SkypeApp",
+            "category": "Communication"
+        },
+        {
+            "name": "Microsoft.Wallet",
+            "category": "System"
+        },
+        {
+            "name": "Microsoft.Whiteboard",
+            "category": "Office"
+        },
+        {
+            "name": "Microsoft.Windows*",
+            "category": "System Apps"
+        },
+        {
+            "name": "Microsoft.Xbox*",
+            "category": "Games"
+        },
+        {
+            "name": "Microsoft.ZuneMusic",
+            "category": "Media"
+        },
+        {
+            "name": "Microsoft.ZuneVideo",
+            "category": "Media"
+        },
+        {
+            "name": "Microsoft.YourPhone",
+            "category": "System"
+        },
+        {
+            "name": "Microsoft.MicrosoftOfficeHub",
+            "category": "Office"
+        },
+        {
+            "name": "Spotify",
+            "category": "Media"
+        },
+        {
+            "name": "Disney+",
+            "category": "Media"
+        },
+        {
+            "name": "BytedancePte.Ltd.TikTok",
+            "category": "Social Media",
+            "description": "TikTok"
+        },
+        {
+            "name": "FACEBOOK.*",
+            "category": "Social Media"
+        },
+        {
+            "name": "*Twitter*",
+            "category": "Social Media"
+        },
+        {
+            "name": "*Viber*",
+            "category": "Communication"
+        },
+        {
+            "name": "Clipchamp.Clipchamp",
+            "category": "Media",
+            "description": "Video Editor"
+        },
+        {
+            "name": "*Adobe*",
+            "category": "Creative"
+        },
+        {
+            "name": "*CandyCrush*",
+            "category": "Games"
+        },
+        {
+            "name": "*Netflix*",
+            "category": "Media"
+        },
+        {
+            "name": "*LinkedIn*",
+            "category": "Social Media"
+        },
+        {
+            "name": "*Dolby*",
+            "category": "Media"
+        },
+        {
+            "name": "*Amazon*",
+            "category": "Shopping"
+        },
+        {
+            "name": "*Hulu*",
+            "category": "Media"
+        },
+        {
+            "name": "*Plex*",
+            "category": "Media"
+        },
+        {
+            "name": "SpotifyAB.SpotifyMusic",
+            "category": "Media"
+        }
+    ]
+}

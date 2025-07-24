@@ -1,0 +1,59 @@
+{
+    "systemRestore": {
+        "maxSize": "5%",
+        "frequency": 0,
+        "weeklyBackup": {
+            "enabled": true,
+            "dayOfWeek": "Sunday",
+            "time": "11:11"
+        }
+    },
+    "security": {
+        "accountLockout": {
+            "threshold": 10,
+            "duration": 10,
+            "window": 10
+        }
+    },
+    "powerPlan": {
+        "monitor": {
+            "timeoutAC": 20,
+            "timeoutDC": 10
+        },
+        "disk": {
+            "timeoutAC": 0,
+            "timeoutDC": 0
+        },
+        "standby": {
+            "timeoutAC": 0,
+            "timeoutDC": 0
+        },
+        "hibernate": {
+            "timeoutAC": 0,
+            "timeoutDC": 0
+        }
+    },
+    "explorer": {
+        "showFileExtensions": true,
+        "showHiddenFiles": true,
+        "startupDelay": 0
+    },
+    "search": {
+        "disableWebSearch": true,
+        "disableCortana": true,
+        "disableConnectedSearch": true
+    },
+    "requiredFeatures": [
+        "Microsoft-Windows-Subsystem-Linux",
+        "VirtualMachinePlatform",
+        "Containers-DisposableClientVM",
+        "Microsoft-Hyper-V"
+    ],
+    "directories": {
+        "logs": "C:\\Support\\Logs",
+        "powerShellProfile": "%USERPROFILE%\\Documents\\PowerShell",
+        "nvimConfig": "%LOCALAPPDATA%\\nvim",
+        "wslTemp": "%TEMP%\\WSLInstall",
+        "customConfig": "C:\\Support\\Config"
+    }
+}

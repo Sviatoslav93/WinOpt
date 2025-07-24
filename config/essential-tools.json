@@ -1,0 +1,168 @@
+{
+    "developmentTools": [
+        {
+            "name": "git",
+            "category": "Version Control",
+            "installer": "scoop",
+            "required": true
+        },
+        {
+            "name": "git-lfs",
+            "category": "Version Control",
+            "installer": "scoop",
+            "required": true
+        },
+        {
+            "name": "lazygit",
+            "category": "Version Control",
+            "installer": "scoop",
+            "required": false
+        }
+    ],
+    "utilities": [
+        {
+            "name": "powertoys",
+            "category": "Utilities",
+            "installer": "scoop",
+            "required": true
+        },
+        {
+            "name": "notepadplusplus",
+            "category": "Editors",
+            "installer": "scoop",
+            "required": true
+        },
+        {
+            "name": "superf4",
+            "category": "Utilities",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "autohotkey",
+            "category": "Automation",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "7zip",
+            "category": "Utilities",
+            "installer": "scoop",
+            "required": true
+        }
+    ],
+    "browsers": [
+        {
+            "name": "googlechrome",
+            "category": "Browsers",
+            "installer": "scoop",
+            "required": true
+        },
+        {
+            "name": "firefox",
+            "category": "Browsers",
+            "installer": "scoop",
+            "required": false
+        }
+    ],
+    "development": [
+        {
+            "name": "vscode",
+            "category": "Development",
+            "installer": "scoop",
+            "required": true
+        },
+        {
+            "name": "jetbrains-toolbox",
+            "category": "Development",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "neovim-nightly",
+            "category": "Development",
+            "installer": "scoop",
+            "required": false
+        }
+    ],
+    "productivity": [
+        {
+            "name": "triliumnext",
+            "category": "Productivity",
+            "installer": "scoop",
+            "required": false
+        }
+    ],
+    "terminalEmulators": [
+        {
+            "name": "warp-terminal",
+            "category": "Terminal",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "wezterm",
+            "category": "Terminal",
+            "installer": "scoop",
+            "required": false
+        }
+    ],
+    "additionalUtilities": [
+        {
+            "name": "bottom",
+            "category": "System Monitor",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "fzf",
+            "category": "Search",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "fd",
+            "category": "Search",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "ripgrep",
+            "category": "Search",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "bat",
+            "category": "Utilities",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "less",
+            "category": "Utilities",
+            "installer": "scoop",
+            "required": false
+        }
+    ],
+    "mediaTools": [
+        {
+            "name": "ffmpeg",
+            "category": "Media",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "pandoc",
+            "category": "Document Conversion",
+            "installer": "scoop",
+            "required": false
+        },
+        {
+            "name": "imagemagick",
+            "category": "Image Processing",
+            "installer": "scoop",
+            "required": false
+        }
+    ]
+}
