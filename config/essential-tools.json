@@ -1,12 +1,6 @@
 {
     "developmentTools": [
         {
-            "name": "git",
-            "category": "Version Control",
-            "installer": "scoop",
-            "required": true
-        },
-        {
             "name": "git-lfs",
             "category": "Version Control",
             "installer": "scoop",
